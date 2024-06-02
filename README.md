@@ -3,8 +3,6 @@
 
 <img align="right" alt="busy coding"  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vighneshkunjir&label=Profile%20views&color=0e75b6&style=flat" alt="vighneshkunjir" /> </p>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/vighnesh-kunjir-1b7a3a27a) 
 
